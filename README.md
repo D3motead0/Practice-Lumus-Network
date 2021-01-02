@@ -1,7 +1,8 @@
 # Lumus Practice
-An open-source pvp-practice core for PocketMine-MP. This originally was made for my server and i've decided to release it for public because why not.
+PvP Core for Practice for Lumus Networj
 
-## Commands:
+## Commands for staff:
+
 | Command | Arguments | Permission|
 | :-----: | :-------: | :-------: |
 | /add | [player] [amount] | server.admin|
@@ -16,7 +17,8 @@ An open-source pvp-practice core for PocketMine-MP. This originally was made for
 | /ping | [null] | everyone|
 | /leaderboard | [null] | everyone|
 
-## Features:
+## Features of the complements:
+
 - Built-in ranks
 - Built-in tags
 - Built-in staff commands
@@ -31,15 +33,10 @@ An open-source pvp-practice core for PocketMine-MP. This originally was made for
 - Built-in world players counter
 - Built-in economy system
 
-## Arenas
+## Arenas for pvp:
+
 - Gapple
 - PotPvP Normal
-- PotPvP PE Only
-- Soup
+- PotPvP PE 
 - Combo
-
-## Installtion
-Download the complied version from poggit and them make sure to generate the following worlds (Gapple, PE, PvP, Soup, Combo) and set default world name to Hub otherwise the plugin breaks.
-
-## Additional Information
-- Made by D3motead0 for Lumus Network HCF and Practice
+- Soup
