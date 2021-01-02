@@ -53,7 +53,7 @@ class EnderPearls implements Listener
         $pearl = $event->getEntity();
         if ($pearl instanceof EnderPearl) {
             $player = $pearl->getOwningEntity();
-            $cooldown = 10;
+            $cooldown = 15;
             if ($player instanceof Player) {
                 if (!isset($this->pearl[strtolower($player->getName())])) {
                     $this->pearl[strtolower($player->getName())] = time();
